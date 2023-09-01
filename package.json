@@ -1,6 +1,6 @@
 {
   "name": "cline-client-script",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "cline.min.js",
   "scripts": {
